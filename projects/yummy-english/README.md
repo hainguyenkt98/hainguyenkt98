@@ -1,6 +1,6 @@
 # Text Message
 ![architecture](./Architecture.png)
-## 👀 Descrition
+## 👀 Description
 - Updating...
 
 ## 🌞 Application
