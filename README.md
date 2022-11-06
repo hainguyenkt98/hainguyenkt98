@@ -27,7 +27,7 @@
 ![mongodb](https://img.shields.io/badge/mongodb-118D4D?style=for-the-badge&logo=mongodb&logoColor=F7F7F7)
 ### Version Control
 ![git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=F7F7F7)
-![gitlab](https://img.shields.io/badge/gitlab-F7F7F7?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![gitlab](https://img.shields.io/badge/gitlab-E8EBEF?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
 ![git](https://img.shields.io/badge/gitea-609926?style=for-the-badge&logo=gitea&logoColor=F7F7F7)
 ### API Technologies
 ![restfull](https://img.shields.io/badge/REST_api-0091CF?style=for-the-badge&logo=rest-api&logoColor=white)
@@ -38,19 +38,19 @@
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=F7F7F7)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=F7F7F7)
 ![kustomize](https://img.shields.io/badge/kustomize-345299?style=for-the-badge&logo=kustomize&logoColor=FF6600)
-![argocd](https://img.shields.io/badge/argocd-F7F7F7?style=for-the-badge&logo=argo&logoColor=EF7B4D)
+![argocd](https://img.shields.io/badge/argocd-E8EBEF?style=for-the-badge&logo=argo&logoColor=EF7B4D)
 ![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=F7F7F7)
 ![drone-ci](https://img.shields.io/badge/drone_ci-1D3557?style=for-the-badge&logo=drone&logoColor=F7F7F7)
-![gitlab-ci](https://img.shields.io/badge/gitlab_ci-F7F7F7?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
-![sonarqube](https://img.shields.io/badge/sonarqube-F7F7F7?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![gitlab-ci](https://img.shields.io/badge/gitlab_ci-E8EBEF?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![sonarqube](https://img.shields.io/badge/sonarqube-E8EBEF?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=F7F7F7)
-![uptime-kuma](https://img.shields.io/badge/uptime_kuma-F7F7F7?style=for-the-badge&logo=uptime-kuma&logoColor=5CDD8B)
+![uptime-kuma](https://img.shields.io/badge/uptime_kuma-E8EBEF?style=for-the-badge&logo=uptime-kuma&logoColor=5CDD8B)
 ### Design Tools
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ### Others
 ![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=F7F7F7)
 ![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=F7F7F7)
-![hasura](https://img.shields.io/badge/hasura-F7F7F7?style=for-the-badge&logo=hasura&logoColor=1EB4D4)
+![hasura](https://img.shields.io/badge/hasura-E8EBEF?style=for-the-badge&logo=hasura&logoColor=1EB4D4)
 ## 🖥️ Workspace Setup
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
