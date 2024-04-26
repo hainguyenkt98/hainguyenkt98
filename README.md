@@ -2,7 +2,7 @@
 
 ## 🐯 About Me
 
-🤘 I’m a **software developer** with over 3 years of experience in **NodeJS** technologies. Most of the time I work with **NestJS** and **ReactJS** but besides working with **NodeJS** I also work as a **DevOps** developer, I organize the code structure, prepare the coding environment by **Docker** and make **CD/CI** pipeline and I am responsible for the deployment by **Kubernetes**.
+🤘 I’m a **software developer** with over 4 years of experience in **NodeJS** technologies. Most of the time I work with **NestJS** and **ReactJS** but besides working with **NodeJS** I also work as a **DevOps** developer, I organize the code structure, prepare the coding environment by **Docker** and make **CD/CI** pipeline and I am responsible for the deployment by **Kubernetes**.
 
 🚀 I am passionate about learning new technologies and improving the working progress through the technologies that I learned. In the next 2 years, I want to become a **Backend Engineer** and **Cloud Engineer** who can use coding skills to resolve technical and architecture problems with the developer team; cloud service knowledge to design project architecture with **high performance**, and **high availability**, and make the working process more automatic and faster.
 
